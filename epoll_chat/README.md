@@ -1,9 +1,9 @@
 # 友寻聊天室设计文档
-项目名称：友寻网路聊天室
-开发环境：Linux、C 语言、Visual Studio Code
-项目开源地址：[https://github.com/abnormal-QF/abnormal](https://github.com/abnormal-QF/abnormal)
-作者：abnormal-QF
-周期：2023.11.12 ~ 2023.11.22
+- 项目名称：友寻网路聊天室
+- 开发环境：Linux、C 语言、Visual Studio Code
+- 项目开源地址：[https://github.com/abnormal-QF/abnormal](https://github.com/abnormal-QF/abnormal)
+- 作者：abnormal-QF
+- 周期：2023.11.12 ~ 2023.11.22
 
 
 
