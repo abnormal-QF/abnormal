@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/src/client_operation.c.o CMakeFiles/main.dir/src/epoll_c.c.o -o ../bin/main 
